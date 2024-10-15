@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/VikingBears/static/css/main.469a62fd.css",
-    "main.js": "/VikingBears/static/js/main.8c7b25ea.js",
-    "static/js/453.caa6ca4b.chunk.js": "/VikingBears/static/js/453.caa6ca4b.chunk.js",
-    "static/media/Banner VikingBears.gif": "/VikingBears/static/media/Banner VikingBears.c6260477969e7689eb55.gif",
-    "static/media/Logo VikingBears.png": "/VikingBears/static/media/Logo VikingBears.a25768bcdc162f6462d4.png",
-    "static/media/ElVikingooooo.jpg": "/VikingBears/static/media/ElVikingooooo.5ccc87548359e4e69075.jpg",
-    "static/media/Logo Computienda.png": "/VikingBears/static/media/Logo Computienda.97cad6dd0006a2ae7580.png",
-    "index.html": "/VikingBears/index.html",
-    "main.469a62fd.css.map": "/VikingBears/static/css/main.469a62fd.css.map",
-    "main.8c7b25ea.js.map": "/VikingBears/static/js/main.8c7b25ea.js.map",
-    "453.caa6ca4b.chunk.js.map": "/VikingBears/static/js/453.caa6ca4b.chunk.js.map"
+    "main.css": "/VikingsBears/static/css/main.5445e433.css",
+    "main.js": "/VikingsBears/static/js/main.6a8d3001.js",
+    "static/js/453.e892e8f8.chunk.js": "/VikingsBears/static/js/453.e892e8f8.chunk.js",
+    "static/media/Banner VikingBears.gif": "/VikingsBears/static/media/Banner VikingBears.c6260477969e7689eb55.gif",
+    "static/media/Logo VikingBears.png": "/VikingsBears/static/media/Logo VikingBears.a25768bcdc162f6462d4.png",
+    "static/media/ElVikingooooo.jpg": "/VikingsBears/static/media/ElVikingooooo.5ccc87548359e4e69075.jpg",
+    "static/media/Logo Computienda.png": "/VikingsBears/static/media/Logo Computienda.97cad6dd0006a2ae7580.png",
+    "index.html": "/VikingsBears/index.html",
+    "main.5445e433.css.map": "/VikingsBears/static/css/main.5445e433.css.map",
+    "main.6a8d3001.js.map": "/VikingsBears/static/js/main.6a8d3001.js.map",
+    "453.e892e8f8.chunk.js.map": "/VikingsBears/static/js/453.e892e8f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.469a62fd.css",
-    "static/js/main.8c7b25ea.js"
+    "static/css/main.5445e433.css",
+    "static/js/main.6a8d3001.js"
   ]
 }
