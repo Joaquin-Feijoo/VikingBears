@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VikingBears/static/css/main.469a62fd.css",
+    "main.js": "/VikingBears/static/js/main.d2d31bd8.js",
+    "static/js/453.caa6ca4b.chunk.js": "/VikingBears/static/js/453.caa6ca4b.chunk.js",
+    "static/media/Banner VikingBears.gif": "/VikingBears/static/media/Banner VikingBears.c6260477969e7689eb55.gif",
+    "static/media/Logo VikingBears.png": "/VikingBears/static/media/Logo VikingBears.a25768bcdc162f6462d4.png",
+    "static/media/ElVikingooooo.jpg": "/VikingBears/static/media/ElVikingooooo.5ccc87548359e4e69075.jpg",
+    "static/media/Logo Computienda.png": "/VikingBears/static/media/Logo Computienda.97cad6dd0006a2ae7580.png",
+    "index.html": "/VikingBears/index.html",
+    "main.469a62fd.css.map": "/VikingBears/static/css/main.469a62fd.css.map",
+    "main.d2d31bd8.js.map": "/VikingBears/static/js/main.d2d31bd8.js.map",
+    "453.caa6ca4b.chunk.js.map": "/VikingBears/static/js/453.caa6ca4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469a62fd.css",
+    "static/js/main.d2d31bd8.js"
+  ]
+}
